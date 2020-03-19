@@ -27,8 +27,6 @@ import org.testng.annotations.Test;
 
 public class Course_Schedule extends Globals{
 	
-//Sample commit One
-//Sample commit two
 	
 	WebDriver driver = new FirefoxDriver();
 	By StudenName = By.xpath("//input[@id='input_9_1']");
